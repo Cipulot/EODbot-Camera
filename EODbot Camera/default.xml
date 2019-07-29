@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfVideoItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <VideoItem>
+    <Name>EODbot Camera</Name>
+    <Url>http://192.168.4.1:8081</Url>
+    <Playing>true</Playing>
+    <Visible>true</Visible>
+    <MaxStreamBufferSize>1024</MaxStreamBufferSize>
+  </VideoItem>
+  <VideoItem>
+    <Name>Tokyo Street</Name>
+    <Url>http://114.160.23.156/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000</Url>
+    <Playing>true</Playing>
+    <Visible>true</Visible>
+    <MaxStreamBufferSize>1024</MaxStreamBufferSize>
+  </VideoItem>
+  <VideoItem>
+    <Name>Boston</Name>
+    <Url>http://129.10.161.241/mjpg/video.mjpg</Url>
+    <Playing>true</Playing>
+    <Visible>true</Visible>
+    <MaxStreamBufferSize>1024</MaxStreamBufferSize>
+  </VideoItem>
+</ArrayOfVideoItem>

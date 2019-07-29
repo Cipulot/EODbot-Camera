@@ -1,0 +1,6 @@
+C:\Users\cipul\Desktop\New folder\SimpleMJPEGStreamViewer\obj\Debug\EODbot Camera.csprojAssemblyReference.cache
+C:\Users\cipul\Desktop\New folder\EODbot Camera\obj\Debug\EODbot Camera.csprojAssemblyReference.cache
+C:\Users\cipul\Desktop\New folder\EODbot Camera\obj\Debug\EODbot_Camera.MainForm.resources
+C:\Users\cipul\Desktop\New folder\EODbot Camera\obj\Debug\EODbot_Camera.Properties.Resources.resources
+C:\Users\cipul\Desktop\New folder\EODbot Camera\obj\Debug\EODbot Camera.csproj.GenerateResource.cache
+C:\Users\cipul\Desktop\New folder\EODbot Camera\obj\Debug\EODbot Camera.csproj.CoreCompileInputs.cache
